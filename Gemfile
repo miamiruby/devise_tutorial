@@ -31,7 +31,6 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'awesome_print'
-gem 'byebug'
 gem 'haml'
 
 group :development, :test do
